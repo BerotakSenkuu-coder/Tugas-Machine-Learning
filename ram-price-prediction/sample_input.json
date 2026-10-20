@@ -1,0 +1,20 @@
+{
+  "brand": "Kingston",
+  "region": "North America",
+  "generation": "DDR5",
+  "form_factor": "DIMM",
+  "capacity_gb": 32,
+  "module_count": 2,
+  "is_ecc": "False",
+  "speed_mts": 6000,
+  "cas_latency": 36,
+  "voltage": 1.35,
+  "die_manufacturer": "Samsung",
+  "die_type": "B-Die",
+  "true_latency_ns": 12.0,
+  "market_segment": "Consumer",
+  "recommended_usage": "Gaming (AAA)",
+  "global_inventory_weeks": 10.0,
+  "fab_utilization_rate": 0.72,
+  "gpu_hbm_trend_gb": 160.0
+}
